@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on assigned readings and supplemental
+  readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ Assigned Readings
 
 TY & K: Truskey, G. A., F. Yuan, and D. F. Katz. _Transport Phenomena in Biological Systems_. East Rutherford, NJ: Prentice Hall, 2003. ISBN: 9780130422040.
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): Haus, H. A., and J. R. Melcher. _[Electromagnetic Fields and Energy](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/)_. Upper Saddle River, NJ: Prentice Hall, 1989. ISBN: 9780132490207. (A free online textbook.)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): Haus, H. A., and J. R. Melcher. _[Electromagnetic Fields and Energy](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008)_. Upper Saddle River, NJ: Prentice Hall, 1989. ISBN: 9780132490207. (A free online textbook.)
 
 Probstein: Probstein, R. F. _Physiochemical Hydrodynamics: An Introduction_. New York, NY: Wiley-Interscience, 2003. ISBN: 9780471458302.
 
@@ -327,9 +329,9 @@ Governing equations
 {{< tdopen >}}
 
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 1.1, 1.2 (except example 1.2.1), 1.3 (excluding continuity), 1.4 (until example 1.4.1), 1.6 (until example 1.6.1), and 1.7 (before illustration)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 1.1, 1.2 (except example 1.2.1), 1.3 (excluding continuity), 1.4 (until example 1.4.1), 1.6 (until example 1.6.1), and 1.7 (before illustration)
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 2.0, 2.1, 2.3, 2.4, and 2.6 (Gauss/Stokes)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 2.0, 2.1, 2.3, 2.4, and 2.6 (Gauss/Stokes)
 
 
 {{< tdclose >}}
@@ -373,7 +375,7 @@ Poisson's equation
 
 {{< tdclose >}}
 {{< tdopen >}}
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 3.0, 3.2, 3.3, and 3.5 (ignore MQS parts)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 3.0, 3.2, 3.3, and 3.5 (ignore MQS parts)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -400,13 +402,13 @@ Charge relaxation in aqueous media
 {{< tdopen >}}
 
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 6.0 through 6.4 (polarization)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 6.0 through 6.4 (polarization)
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 9.0 (magnetization)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 9.0 (magnetization)
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 7.1 (ohmic conduction)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 7.1 (ohmic conduction)
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 7.7 (charge relaxation)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 7.7 (charge relaxation)
 
 
 {{< tdclose >}}
@@ -468,11 +470,11 @@ Poisson-Boltzmann equation
 {{< tdopen >}}
 
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 4.1
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 4.1
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 4.2
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 4.2
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 4.3
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 4.3
 
 
 {{< tdclose >}}
@@ -499,13 +501,13 @@ Laplace's equation in rectangular coordinate (electrophoresis example) will rely
 {{< tdopen >}}
 
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 5.1
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 5.1
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 5.2
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 5.2
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 5.3
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 5.3
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 5.4
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 5.4
 
 
 {{< tdclose >}}
@@ -539,9 +541,9 @@ Laplace's equation in spherical coordinate (example 7.9.3)
 {{< tdopen >}}
 
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): 5.9
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): 5.9
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): Example 7.9.3 (from section 7.9, ignore time dependence)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): Example 7.9.3 (from section 7.9, ignore time dependence)
 
 
 {{< tdclose >}}
@@ -905,7 +907,7 @@ Dielectrophoretic manipulation of cells
 {{< tdopen >}}
 
 
-[H & M](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/): Example 7.9.3 (repeat)
+[H & M](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008): Example 7.9.3 (repeat)
 
 Jones: 2.1, 2.2 (up to section C), and 3.2 (sections A and B)
 

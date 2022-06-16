@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the course objectives, topic outline,
+  textbooks and reference materials, class structure, term grade, homework, midterm
+  quizzes and final exam, and a calendar of lecture and tutorial sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -64,7 +67,7 @@ Truskey, G. A., F. Yuan, and D. F. Katz. _Transport Phenomena in Biological Syst
 
 ### Additional Texts with Assigned Readings (not required to purchase)
 
-Haus, H. A., and J. R. Melcher. _[Electromagnetic Fields and Energy](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/)_. Upper Saddle River, NJ: Prentice Hall, 1989. ISBN: 9780132490207. (A free online textbook.)
+Haus, H. A., and J. R. Melcher. _[Electromagnetic Fields and Energy](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008)_. Upper Saddle River, NJ: Prentice Hall, 1989. ISBN: 9780132490207. (A free online textbook.)
 
 Probstein, R. F. _Physicochemical Hydrodynamics: An Introduction_. New York, NY: Wiley-Interscience, 2003. ISBN: 9780471458302.
 
