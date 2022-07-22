@@ -6,6 +6,7 @@ file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: electrokin_lec3.pdf
 uid: 254962a1-5f6d-b8cf-8544-bcfdb6e6b187
 ---
 Lecture slides on characteristics of electroosmotic flow and applications of electroosmotic flow.
-

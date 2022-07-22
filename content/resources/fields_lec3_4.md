@@ -7,6 +7,7 @@ file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: fields_lec3_4.pdf
 uid: f0103f60-9e7e-1db8-a881-792768186b24
 ---
 Lecture slides on quasi-electrostatic approximation, order of magnitude of B field, justification of EQS approximation, quasielectrostatics, and Poisson's equation.
-

@@ -6,6 +6,7 @@ file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fields_lec1_2.pdf
 uid: ff3707cc-67dc-950b-8417-d0dd3e077b04
 ---
 Lecture slides on why EM theory is important, electric and magnetic fields for biological systems (examples), and EM field for biomedical systems (examples).
-

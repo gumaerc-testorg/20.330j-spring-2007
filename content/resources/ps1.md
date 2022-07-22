@@ -5,6 +5,7 @@ file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 07132799-48b5-cc61-291f-e2906b26f5c0
 ---
 This resource contains a problem set.
-
