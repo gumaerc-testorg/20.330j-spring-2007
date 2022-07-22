@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section includes slides for selected lectures in Parts 2 and 4,
+  plus an introductory lecture in Part 1. Table entries for Parts 1 and 3 are retained,
+  even though no lecture notes are available, to present the overall flow of topics
+  during the term.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4b48a137-72ee-352a-11db-7f92942d5c97
 ---
@@ -37,7 +44,7 @@ DETAILS
 
 Introduction to the course
 
-Fluid 1: Introduction to fluid flow ([PDF]({{< baseurl >}}/resources/lec1))
+Fluid 1: Introduction to fluid flow ({{% resource_link 5c643ae0-47c6-ae6f-7eca-a1e0855ae03c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -233,7 +240,7 @@ How cells sense fluid flow
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Field 1: Introduction to EM theory ([PDF]({{< baseurl >}}/resources/fields_lec1_2))
+Field 1: Introduction to EM theory ({{% resource_link ff3707cc-67dc-950b-8417-d0dd3e077b04 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -253,7 +260,7 @@ EM field for biomedical systems (examples)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Field 2: Maxwell's equations ([PDF]({{< baseurl >}}/resources/fields_lec1_2))
+Field 2: Maxwell's equations ({{% resource_link ff3707cc-67dc-950b-8417-d0dd3e077b04 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -287,7 +294,7 @@ Quiz 1
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Field 3: EM field for biosystems ([PDF]({{< baseurl >}}/resources/fields_lec3_4))
+Field 3: EM field for biosystems ({{% resource_link f0103f60-9e7e-1db8-a881-792768186b24 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -311,7 +318,7 @@ Poisson's equation
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Field 4: EM field in aqueous media ([PDF]({{< baseurl >}}/resources/fields_lec3_4))
+Field 4: EM field in aqueous media ({{% resource_link f0103f60-9e7e-1db8-a881-792768186b24 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -333,7 +340,7 @@ Charge relaxation in aqueous media
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Field 5: Debye layer ([PDF]({{< baseurl >}}/resources/fields_lec5))
+Field 5: Debye layer ({{% resource_link 48b63e1b-f224-8a83-8f83-7d85cb37a515 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -355,7 +362,7 @@ Electroneutrality and charge relaxation
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Field 6: Quasielectrostatics 2 ([PDF]({{< baseurl >}}/resources/fields_lec6))
+Field 6: Quasielectrostatics 2 ({{% resource_link 3d326038-1b93-d72c-4b8a-c060fa3c3fc7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -377,7 +384,7 @@ Poisson-Boltzmann equation
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Field 7: Laplace's equation 1 ([PDF]({{< baseurl >}}/resources/fields_lec7))
+Field 7: Laplace's equation 1 ({{% resource_link 09350fb2-a1cd-2dc1-5929-e24c47d9d83a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -397,7 +404,7 @@ Laplace's equation in rectangular coordinate (electrophoresis example) will rely
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Field 8: Laplace's equation 2 ([PDF]({{< baseurl >}}/resources/fields_lec8))
+Field 8: Laplace's equation 2 ({{% resource_link b1c8f1b5-314e-6bbe-6c1b-239ef1de56c7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Laplace's equation in other coordinates (solving examples using MATLAB®)
@@ -409,7 +416,7 @@ Laplace's equation in other coordinates (solving examples using MATLAB®)
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Field 9: Laplace's equation 3 ([PDF]({{< baseurl >}}/resources/fields_lec9))
+Field 9: Laplace's equation 3 ({{% resource_link 26822cfe-8190-ba6d-197f-64da582933ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Laplace's equation in spherical coordinate (example 7.9.3)
@@ -635,7 +642,7 @@ Electrokinetic phenomena
 32
 {{< tdclose >}}
 {{< tdopen >}}
-EK2: Electroosmosis 1 ([PDF]({{< baseurl >}}/resources/electrokin_lec2))
+EK2: Electroosmosis 1 ({{% resource_link 3f79682d-8f68-4ab4-3e9d-bd4208737945 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -653,7 +660,7 @@ Electroosmotic mobility (derivation)
 33
 {{< tdclose >}}
 {{< tdopen >}}
-EK3: Electroosmosis 2 ([PDF]({{< baseurl >}}/resources/electrokin_lec3))
+EK3: Electroosmosis 2 ({{% resource_link 254962a1-5f6d-b8cf-8544-bcfdb6e6b187 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -689,7 +696,7 @@ Theory of electrophoresis
 35
 {{< tdclose >}}
 {{< tdopen >}}
-EK5: Electrophoresis 2 ([PDF]({{< baseurl >}}/resources/electrokin_lec5))
+EK5: Electrophoresis 2 ({{% resource_link 3de45552-ba2b-b507-838a-b3c714017a90 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -707,7 +714,7 @@ Molecular sieving
 36
 {{< tdclose >}}
 {{< tdopen >}}
-EK6: Dielectrophoresis ([PDF]({{< baseurl >}}/resources/electrokin_lec6))
+EK6: Dielectrophoresis ({{% resource_link 9ff9c56b-6345-19ab-ad30-51083283ca64 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -727,7 +734,7 @@ Dielectrophoretic manipulation of cells
 37
 {{< tdclose >}}
 {{< tdopen >}}
-EK7: DLVO ([PDF]({{< baseurl >}}/resources/electrokin_lec7))
+EK7: DLVO ({{% resource_link 74f18ece-ebc0-3ef0-de28-b414985b774a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
