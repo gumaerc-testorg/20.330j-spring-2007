@@ -986,7 +986,7 @@ Summary of the course/evaluation
 
 ### Part 1
 
-Videos by the [National Committee for Fluid Mechanics Films](http://web.mit.edu/fluids/www/Shapiro/ncfmf.html) (NCFMF)
+Videos by the {{% resource_link "19c63d9f-f9b1-41c5-80c3-f7846670726a" "National Committee for Fluid Mechanics Films" %}} (NCFMF)
 
 Quake, Stephen R., and Todd M. Squires. "Microfluidics: Fluid Physics at the Nanoliter Scale." _Reviews Of Modern Physics_ 77 (July 2005): 977-1026.
 
