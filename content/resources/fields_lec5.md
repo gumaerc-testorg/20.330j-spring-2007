@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on solving 1D Poisson's equation, derivation of Debye
   length, significance of Debye length, and electroneutrality and charge relaxation.
 file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/48b63e1bf2248a838f837d85cb37a515_fields_lec5.pdf
+file_size: 280854
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

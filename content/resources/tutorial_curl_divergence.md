@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains topics like Vector Product, Gauss theorem and
   Stokes theorem.
 file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/92620313a2c88b75376663832461d92a_tutorial_curl_divergence.pdf
+file_size: 79757
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
