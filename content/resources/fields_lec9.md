@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on Laplace's equation in spherical coordinate (example
   7.9.3).
-file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/26822cfe8190ba6d197f64da582933ff_fields_lec9.pdf
+file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/26822cfe8190ba6d197f64da582933ff_fields_lec9.pdf
 file_size: 273357
 file_type: application/pdf
 learning_resource_types:
