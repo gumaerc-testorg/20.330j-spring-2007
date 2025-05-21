@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains equations for the final exam.
-file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/94027ed2b2a42412dd78f3bb8e7bcab9_final_eqn_sheet.pdf
+file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/94027ed2b2a42412dd78f3bb8e7bcab9_final_eqn_sheet.pdf
 file_size: 183734
 file_type: application/pdf
 learning_resource_types: []
