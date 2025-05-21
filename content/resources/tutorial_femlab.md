@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a tutorial on FEMLAB.
-file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/680f75e454f68e34dec5758a6cb89db0_tutorial_femlab.pdf
+file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/680f75e454f68e34dec5758a6cb89db0_tutorial_femlab.pdf
 file_size: 258825
 file_type: application/pdf
 learning_resource_types: []

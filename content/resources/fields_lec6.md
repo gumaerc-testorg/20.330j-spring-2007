@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on Poisson's and Laplace's equations, potential function,
   potential field of monopoles and dipoles, and Poisson-Boltzmann equation.
-file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/3d3260381b93d72c4b8ac060fa3c3fc7_fields_lec6.pdf
+file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/3d3260381b93d72c4b8ac060fa3c3fc7_fields_lec6.pdf
 file_size: 143644
 file_type: application/pdf
 learning_resource_types:

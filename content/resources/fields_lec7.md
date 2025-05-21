@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on Laplace's equation, uniqueness of the solution, and
   Laplace's equation in rectangular coordinate (electrophoresis example) will rely
   on separation of variables.
-file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/09350fb2a1cd2dc15929e24c47d9d83a_fields_lec7.pdf
+file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/09350fb2a1cd2dc15929e24c47d9d83a_fields_lec7.pdf
 file_size: 137287
 file_type: application/pdf
 learning_resource_types:
