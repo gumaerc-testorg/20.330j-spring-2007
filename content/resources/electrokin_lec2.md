@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on electroosmotic flow and electroosmotic mobility (derivation).
-file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/3f79682d8f684ab43e9dbd4208737945_electrokin_lec2.pdf
+file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/3f79682d8f684ab43e9dbd4208737945_electrokin_lec2.pdf
 file_size: 802950
 file_type: application/pdf
 learning_resource_types:
