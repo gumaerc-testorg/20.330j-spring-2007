@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on enduced dipole (from part 2), C-M factor, and dielectrophoretic
   manipulation of cells.
-file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/9ff9c56b634519abad3051083283ca64_electrokin_lec6.pdf
+file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/9ff9c56b634519abad3051083283ca64_electrokin_lec6.pdf
 file_size: 309142
 file_type: application/pdf
 learning_resource_types:
