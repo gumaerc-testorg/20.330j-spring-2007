@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set.
-file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/baa7090bad906dd0f48218d497a78e8c_ps4.pdf
+file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/baa7090bad906dd0f48218d497a78e8c_ps4.pdf
 file_size: 170084
 file_type: application/pdf
 learning_resource_types:

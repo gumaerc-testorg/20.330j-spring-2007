@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a review of vector calculus.
-file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/4a87dfb4f87611e29bd9ab3b924de1a1_tutor_curl_diver.pdf
+file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/4a87dfb4f87611e29bd9ab3b924de1a1_tutor_curl_diver.pdf
 file_size: 76339
 file_type: application/pdf
 learning_resource_types: []

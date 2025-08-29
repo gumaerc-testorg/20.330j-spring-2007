@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on characteristics of electroosmotic flow and applications
   of electroosmotic flow.
-file: /courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/254962a15f6db8cf8544bcfdb6e6b187_electrokin_lec3.pdf
+file: /ol-ocw-studio-app/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/254962a15f6db8cf8544bcfdb6e6b187_electrokin_lec3.pdf
 file_size: 349486
 file_type: application/pdf
 learning_resource_types:
