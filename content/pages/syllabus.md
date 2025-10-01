@@ -77,7 +77,7 @@ Jones, T. B. _Electromechanics of Particles_. 2nd ed. New York, NY: Cambridge Un
 
 Bird, R. B., E. N. Lightfoot, and W. E. Stewart. _Transport Phenomena_. New York, NY: Wiley, 2006. ISBN: 9780470115398.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262231831) Weiss, T. F. _Cellular Biophysics - Volume 1: Transport_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231831.
+{{% resource_link "042a4ff2-8bfb-4cfe-ba94-fc7091c37a63" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Weiss, T. F. _Cellular Biophysics - Volume 1: Transport_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262231831.
 
 Morgan, H., and H. Green. _AC Electrokinetics: Colloids and Nanoparticles_. Baldock, UK: Research Studies Press, 2002. ISBN: 9780863802553.
 
